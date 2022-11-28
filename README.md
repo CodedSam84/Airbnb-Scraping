@@ -16,3 +16,8 @@ This project involves scraping the basic listing information such as title, pric
 
 
 ![airbnb4](https://user-images.githubusercontent.com/60451760/203918427-04cb8365-ce4b-4615-8610-8535206e9d59.png)
+
+
+
+
+![screencapture-github-CodedSam84-Airbnb-Scraping-blob-main-airbnb-py-2022-11-28-12_32_58](https://user-images.githubusercontent.com/60451760/204268057-0d58b8f5-c1cc-4161-a0ca-b85a21cc6400.png)
